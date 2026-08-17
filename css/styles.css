@@ -5,71 +5,44 @@ body {
 
 .title {
     color: white;
-    font-size: 200%;
+    font-size: x-large;
 }
 
-.plans {
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.plan-card {
-    margin: 10px;
-    padding: 10px;
+img {
     border-radius: 5px;
-    user-select: none;
-    width: 50%;
-    background: radial-gradient(ellipse, rgb(217, 153, 3), rgb(140, 108, 2));
-    box-shadow: 0px 0px 10px rgb(140, 108, 2);
-    color: black;
-    transform: scale(1);
-}
-
-.plan-card:hover {
-    transform: scale(1.05);
-    transition: 0.5s;
-}
-
-.plan-card-title {
-    font-size: 150%;
-    font-weight: bold;
-}
-
-.tier-features {
     border-style: solid;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-radius: 5px;
-    padding: 8px;
+    border-width: 0px;
 }
 
-.tier-features:hover {
-    scale: 1.02;
-    transition: 0.5s;
-}
-
-.tier-price {
-    font-size: 300%;
-    font-weight: bolder;
-    justify-content: center;
-    display: flex;
-}
-
-.start-free-trial {
-    background-color: rgb(0, 0, 0);
-    margin-top: 10px;
-    border-radius: 5px;
-    padding: 20px;
-    color: white;
+.features {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    /* background-color: red; */
 }
 
-.start-free-trial:hover {
-    scale: 1.02;
-    transition: 0.5s;
-    cursor: pointer;
+.feature-card {
+    background-color: #1C1F24;
+    width: 80%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 50px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+.feature-card-description {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: end;
+    color: white;
+    margin: 50px;
+    margin-left: 80px;
 }
