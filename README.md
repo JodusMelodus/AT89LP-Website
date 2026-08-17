@@ -52,6 +52,17 @@ AT89LP development usually requires several separate tools for writing code, com
 - Atmel FLIP
 - AT89LP-compatible microcontroller
 
+# Features
+
+## Build Menu
+![Build Menu](assets/build_menu.png)
+
+## Program Menu
+![Program Menu](assets/program_menu.png)
+
+## Serial Monitor
+![Serial Monitor Menu](assets/serial_monitor_menu.png)
+
 ## License
 
 See [License](LICENSE.md)
