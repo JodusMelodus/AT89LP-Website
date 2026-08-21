@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AT89LP
 ---
 
