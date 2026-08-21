@@ -1,3 +1,8 @@
+---
+layout: default
+title: AT89LP
+---
+
 | [Home](Index.md) | [Features](Features.md) |
 | ---------------- | ----------------------- |
 
