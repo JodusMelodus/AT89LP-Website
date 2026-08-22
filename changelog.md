@@ -6,10 +6,13 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+### 0.3.8 - 2026/08/22
+
 - **Dynamically create .vscode** - create `.vscode/c_cpp_properties.json` when not existing to support existing projects.
 - **Open output automatically** - open the output terminal when building and programming.
 - **Invalid license bug** - shows invalid license when a license is activated.
 - **License system overhaul** - over haul the license validation and activation.
+- **Display build output** - display build output, didn't display when build failed
 
 ### 0.3.7 - 2026/08/21
 
