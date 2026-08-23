@@ -6,6 +6,8 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+### 0.3.10 - 2026/08/23
+
 - **Bug fixes and improvements** - fix bugs and improve overall code quality.
 - **Support custom paths** - allow the user to setup own paths to SDCC and include headers.
 - **Build and program process overhaul** - completely overhaul the program and build commands.
