@@ -9,6 +9,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 - **Bug fixes and improvements** - fix bugs and improve overall code quality.
 - **Support custom paths** - allow the user to setup own paths to SDCC and include headers.
 - **Build and program process overhaul** - completely overhaul the program and build commands.
+- **Fix memory hogging packihx** - fixed improper dependency check for packihx, which caused memory hogging.
 
 ### 0.3.9 - 2026/08/23
 
