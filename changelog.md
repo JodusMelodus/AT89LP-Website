@@ -9,6 +9,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 ### 0.3.9 - 2026/08/23
 
 - **License deactivation** - add a license deactivation command
+- **Rename activation** - rename `Enter License` to `Activate License`
 
 ### 0.3.8 - 2026/08/22
 
