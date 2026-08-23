@@ -6,6 +6,10 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+### 0.3.9 - 2026/08/23
+
+- **License deactivation** - add a license deactivation command
+
 ### 0.3.8 - 2026/08/22
 
 - **Dynamically create .vscode** - create `.vscode/c_cpp_properties.json` when not existing to support existing projects.
