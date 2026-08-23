@@ -6,10 +6,13 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+- **Bug fixes and improvements** - fix bugs and improve overall code quality.
+- **Support custom paths** - allow the user to setup own paths to SDCC and include headers.
+
 ### 0.3.9 - 2026/08/23
 
-- **License deactivation** - add a license deactivation command
-- **Rename activation** - rename `Enter License` to `Activate License`
+- **License deactivation** - add a license deactivation command.
+- **Rename activation** - rename `Enter License` to `Activate License`.
 
 ### 0.3.8 - 2026/08/22
 
@@ -27,24 +30,24 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### 0.3.6 - 2026/08/20
 
-- **Error message when no project open** - display error message when no project is open and the user is trying to build
+- **Error message when no project open** - display error message when no project is open and the user is trying to build.
 - **Remove accidental lock** - `programming` could fail to reset causing a lock and preventing the user from flashing.
-- **Other small fixes** - User experience improvements
+- **Other small fixes** - User experience improvements.
 
 ### 0.3.5 - 2026/08/20
 
-- **Update icon** - change icon
+- **Update icon** - change icon.
 
 ### 0.3.4 - 2026/08/20
 
-- **SDCC Diagnostics** - Diagnose c files to check for errors lazily
-- **SDCC Preprocessor Keywords** - Updated pre-processor keywords
-- **Prevent license sharing** - Limit license usage to single devices
+- **SDCC Diagnostics** - Diagnose c files to check for errors lazily.
+- **SDCC Preprocessor Keywords** - Updated pre-processor keywords.
+- **Prevent license sharing** - Limit license usage to single devices.
 
 ### 0.3.3 - 2026/08/18
 
-- **Fixed build bug** - Failed to clean build directory with no error message
-- **Fixed license bug** - Premium activated accidentally
+- **Fixed build bug** - Failed to clean build directory with no error message.
+- **Fixed license bug** - Premium activated accidentally.
 
 ---
 
