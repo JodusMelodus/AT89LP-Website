@@ -8,7 +8,8 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 - **Privacy Policy** - added privacy policy.
 - **Improve input validation** - fix UI input validation for programming, building and serial monitor usage.
-- **Check open workspace before building/programming** - check whether a workspace is open before trying to build/program
+- **Check open workspace before building/programming** - check whether a workspace is open before trying to build/program.
+- **Save walkthrough completion** - prevent the walkthrough from displaying when user already has completed it.
 
 ### 0.3.10 - 2026/08/23
 
