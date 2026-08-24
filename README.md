@@ -4,6 +4,8 @@ A simple, integrated development environment for AT89LP microcontrollers, built 
 
 AT89LP IDE brings project management, building, programming, calculations, and serial debugging together in one clean interface.
 
+> **Windows** is currently the only supported operating system. AT89LP IDE depends on Windows executables provided by SDCC and Atmel FLIP.
+
 ## Table of Contents
 
 - [AT89LP IDE](#at89lp-ide)
