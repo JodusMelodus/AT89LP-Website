@@ -1,4 +1,4 @@
-| [Home](index.md) | [Features](features.md) | [Changelog](changelog.md) |
+| [Home](index.md) | [Features](features.md) | [Changelog](changelog.md) | [Privacy Policy](privacyPolicy.md) |
 
 ## Overview
 

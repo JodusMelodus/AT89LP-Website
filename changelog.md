@@ -1,10 +1,13 @@
-| [Home](index.md) | [Features](features.md) | [Changelog](changelog.md) |
+| [Home](index.md) | [Features](features.md) | [Changelog](changelog.md) | [Privacy Policy](privacyPolicy.md) |
 
 ## Change Log
 
 All notable changes to the "at89lp-ide" extension will be documented in this file.
 
 ### Unreleased
+
+- **Privacy Policy** - added privacy policy.
+- **Improve input validation** - fix UI input validation for programming, building and serial monitor usage.
 
 ### 0.3.10 - 2026/08/23
 
