@@ -19,6 +19,7 @@ AT89LP IDE brings project management, building, programming, calculations, and s
     - [3. Create a project](#3-create-a-project)
   - [Why AT89LP IDE?](#why-at89lp-ide)
   - [Requirements](#requirements)
+  - [Privacy Policy](#privacy-policy)
   - [License](#license)
 
 ## Overview
@@ -89,6 +90,12 @@ AT89LP development usually requires several separate tools for writing code, com
 - AT89LP-compatible microcontroller
 
 ---
+
+## Privacy Policy
+
+No personal data is shared, only license keys and instance IDs.
+
+See the [Privacy Policy](docs/privacyPolicy.md) for more information.
 
 ## License
 
