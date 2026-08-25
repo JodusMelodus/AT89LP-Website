@@ -6,6 +6,8 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+### 0.3.11 - 2026/08/25
+
 - **Privacy Policy** - added privacy policy.
 - **Improve input validation** - fix UI input validation for programming, building and serial monitor usage.
 - **Check open workspace before building/programming** - check whether a workspace is open before trying to build/program.
