@@ -6,6 +6,8 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+### 1.0.0 - 2026/08/25
+
 - **Update with valid license** - only update with valid licenses and not invalid ones.
 - **Improve GUI** - add labels and placeholders for gui.
 - **Update links** - update links to actual product.
