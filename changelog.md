@@ -8,6 +8,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 - **Update with valid license** - only update with valid licenses and not invalid ones.
 - **Improve GUI** - add labels and placeholders for gui.
+- **Update links** - update links to actual product.
 
 ### 0.3.11 - 2026/08/25
 

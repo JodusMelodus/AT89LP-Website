@@ -34,7 +34,7 @@ Premium functionality includes:
 The core build system and project templates remain available in the free version.
 
 You can purchase the premium license here:
-<a href="https://jodusmelodus-dev.lemonsqueezy.com/checkout/buy/8c96375e-75cc-41f6-a527-747f4fa3e21d?embed=1" class="lemonsqueezy-button">Buy AT89LP IDE VS Code Extension</a><script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
+<a href="https://jodusmelodus-dev.lemonsqueezy.com/checkout/buy/cc6ce079-4189-4d58-8e4f-337897d83244?embed=1&logo=0" class="lemonsqueezy-button">Buy AT89LP IDE Premium</a><script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
 
 ## Quick Start Guide
 
