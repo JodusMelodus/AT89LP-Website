@@ -6,6 +6,8 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 ### Unreleased
 
+- **Update with valid license** - only update with valid licenses and not invalid ones.
+
 ### 0.3.11 - 2026/08/25
 
 - **Privacy Policy** - added privacy policy.
