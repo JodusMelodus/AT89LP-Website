@@ -18,6 +18,7 @@
 - **Integrated Programmer** - Program/Flash your microcontroller directly from VS Code using Atmel FLIP.
 - **Programmer's calculator** - Useful calculations for microcontroller development, right inside the IDE.
 - **Serial Monitor** - Integrated serial monitor, for easy serial debugging.
+- **Import Code::Blocks Project** - Import existing Code::Blocks projects into AT89LP IDE.
 
 ## Free VS Premium
 
@@ -25,6 +26,7 @@
 | ------------------------------------- | ---- | ------- |
 | Built-in build button                 | ✓    | ✓       |
 | Project templates                     | ✓    | ✓       |
+| Import Code::Blocks Projects          | ✓    | ✓       |
 | Integrated microcontroller programmer | ✗    | ✓       |
 | Programmer's calculator               | ✗    | ✓       |
 | Serial monitor                        | ✗    | ✓       |

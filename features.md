@@ -27,6 +27,11 @@ Program/Flash your AT89LP devices with a powerful built-in programmer. Easily ch
 
 Debug your serial communications directly inside VS Code using the built-in serial monitor. Choose your serial port and baud rate with ease. Send and receive serial data using the integrated serial monitor, without installing any external dependencies.
 
+### Other useful commands
+
+- **Programmer's Calculator** - a multi-base built-in calculator for quick calculations.
+- **Import Code::Blocks Project** - allows the user to import an existing Code::Blocks project in a format which the AT89LP IDE can understand.
+
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JodusMelodus)
