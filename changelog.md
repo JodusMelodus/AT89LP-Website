@@ -8,6 +8,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 
 - **Remove .gitignore** - remove `.gitignore` from 8051 template.
 - **Import Code::Blocks project** - add a command to import Code::Blocks projects into a format AT89LP IDE can build.
+- **Export projects to Code::Block projects** - add a command to export projects to a Code::Blocks project format.
 
 ### 1.0.0 - 2026/08/25
 

@@ -31,6 +31,7 @@ AT89LP IDE brings project management, building, programming, calculations, and s
 - **Programmer's calculator** - Useful calculations for microcontroller development, right inside the IDE.
 - **Serial Monitor** - Integrated serial monitor, for easy serial debugging.
 - **Import Code::Blocks Project** - Import existing Code::Blocks projects into AT89LP IDE.
+- **Export to Code::Blocks Project** - Export AT89LP projects to a Code::Blocks project.
 
 ## Free VS Premium
 
@@ -39,6 +40,7 @@ AT89LP IDE brings project management, building, programming, calculations, and s
 | Built-in build button                 | ✓    | ✓       |
 | Project templates                     | ✓    | ✓       |
 | Import Code::Blocks Projects          | ✓    | ✓       |
+| Export to Code::Blocks Projects       | ✓    | ✓       |
 | Integrated microcontroller programmer | ✗    | ✓       |
 | Programmer's calculator               | ✗    | ✓       |
 | Serial monitor                        | ✗    | ✓       |

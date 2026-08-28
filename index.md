@@ -9,6 +9,7 @@
 - **Programmer's calculator** - Useful calculations for microcontroller development, right inside the IDE.
 - **Serial Monitor** - Integrated serial monitor, for easy serial debugging.
 - **Import Code::Blocks Project** - Import existing Code::Blocks projects into AT89LP IDE.
+- **Export to Code::Blocks Project** - Export AT89LP projects to a Code::Blocks project.
 
 ## Free VS Premium
 
@@ -17,6 +18,7 @@
 | Built-in build button                 | ✓    | ✓       |
 | Project templates                     | ✓    | ✓       |
 | Import Code::Blocks Projects          | ✓    | ✓       |
+| Export to Code::Blocks Projects       | ✓    | ✓       |
 | Integrated microcontroller programmer | ✗    | ✓       |
 | Programmer's calculator               | ✗    | ✓       |
 | Serial monitor                        | ✗    | ✓       |
