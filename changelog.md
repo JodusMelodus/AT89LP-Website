@@ -10,6 +10,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 - **Import Code::Blocks project** - add a command to import Code::Blocks projects into a format AT89LP IDE can build.
 - **Export projects to Code::Block projects** - add a command to export projects to a Code::Blocks project format.
 - **Improve c_cpp_properties.json generation** - only generate the file when a new project is created or when a Code::Blocks project is imported.
+- **Program open hex file** - when no project is open, prompt the user to select a hex file to program.
 - **Allow easy addition of include directories** - added a command to allow users to easily add an include directory to the current project.
 
 ### 1.0.0 - 2026/08/25
