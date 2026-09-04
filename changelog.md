@@ -4,7 +4,7 @@
 
 All notable changes to the "at89lp-ide" extension will be documented in this file.
 
-### Unreleased
+### 1.1.0 - 2026/09/04
 
 - **Remove .gitignore** - remove `.gitignore` from 8051 template.
 - **Import Code::Blocks project** - add a command to import Code::Blocks projects into a format AT89LP IDE can build.
