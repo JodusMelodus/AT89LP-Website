@@ -1,5 +1,9 @@
 # AT89LP IDE
 
+[![Test - Windows](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-windows.yml/badge.svg)](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-windows.yml)
+[![Test - macOS](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-macos.yml/badge.svg)](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-macos.yml)
+[![Test - Linux](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-linux.yml/badge.svg)](https://github.com/JodusMelodus/AT89LP-IDE/actions/workflows/test-linux.yml)
+
 A simple, integrated development environment for AT89LP microcontrollers, built directly into VS Code.
 
 AT89LP IDE brings project management, building, programming, calculations, and serial debugging together in one clean interface.
