@@ -4,6 +4,11 @@
 
 All notable changes to the "at89lp-ide" extension will be documented in this file.
 
+#
+### Unreleased
+
+- **Fix deselection of programming and serial ports** - Prevent the UI from deselecting the user selected port when ports are updated.
+
 ### 1.1.0 - 2026/09/04
 
 - **Remove .gitignore** - remove `.gitignore` from 8051 template.
