@@ -28,7 +28,7 @@ Debug your serial communications directly inside VS Code using the built-in seri
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@JodusMelodus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jodusmelodus_dev/)
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/jodusmelodus-dev)
-[![Email](https://img.shields.io/badge/Email-philipgricius%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:philipgricius+jodusmelodus@gmail.com)
+[![Email](https://img.shields.io/badge/Email-philipgricius+jodusmelodus%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:philipgricius+jodusmelodus@gmail.com)
 
 ---
 
